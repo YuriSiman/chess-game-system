@@ -11,6 +11,8 @@ public class Piece {
 		
 	}
 	
+//	Starting position of the piece is null
+	
 	public Piece(Board board) {
 		this.board = board;
 	}
